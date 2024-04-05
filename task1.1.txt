@@ -1,0 +1,7 @@
+Task 1.1: 
+Add Contact: Users can add a new contact with a first name, last name, company, job title, phone numbers, and email addresses.
+Update Contact: Users can modify existing contact details including names, company, job title, phone numbers, and email addresses.
+Delete Contact: Users can remove a contact from the system.
+Search Contact: Users can search for contacts based on first name, last name, or company.
+Merge Duplicates: System should identify and allow merging of duplicate contacts based on name similarity.
+Contact Display: Ability to display all contact details including names, company, job title, phone numbers, and email addresses.
